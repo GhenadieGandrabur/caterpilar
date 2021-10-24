@@ -1,0 +1,22 @@
+.mbg{background-color: rgb(6, 6, 104);}
+li a{color:white;}
+li a:hover{border-bottom:yellow solid 6px; color:yellow}
+.mycenter {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  footer{
+    background-color:rgb(6, 6, 104);
+    color:white;
+    padding: 10px;
+  }
+  p{ text-align: justify; font-size: 18px; color:black;}
+  .black{
+    color:black; 
+    text-decoration:underline;
+  }
+  .foradd{
+    height: 64px;
+    background-color: rgb(153, 13, 13);
+  }
