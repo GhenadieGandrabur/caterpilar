@@ -22,7 +22,7 @@
 <div class="col-sm-3 ">
    
 </div>
-<div class="col-sm-6 border p-4">    
+<div class="col-sm-6  p-4">    
   
     <article>
         <h3 class="black">Despre frecvente radio</h3>

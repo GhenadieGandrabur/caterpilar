@@ -1,6 +1,6 @@
 .mbg{background-color: rgb(6, 6, 104);}
 li a{color:white;}
-li a:hover{border-bottom:yellow solid 6px; color:yellow}
+
 .mycenter {
     margin: auto;
     width: 50%;
@@ -20,3 +20,48 @@ li a:hover{border-bottom:yellow solid 6px; color:yellow}
     height: 64px;
     background-color: rgb(153, 13, 13);
   }
+
+
+  body {margin: 0;}
+
+ul.topnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(6, 6, 104);
+}
+ul.topnav a:hover{border-bottom:yellow solid 3px; color:yellow}
+
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+ul.bottomnav{
+  list-style-type: none;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+ul.bottomnav li a {
+  display: block;
+  color: white;   
+  text-decoration: none;
+  font-size: 14px;
+}
+ul.bottomnav a:hover{text-decoration:underline; color:aqua}
+
+ul.topnav li.right {float: right;}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+}

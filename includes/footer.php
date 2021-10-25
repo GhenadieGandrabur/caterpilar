@@ -4,8 +4,8 @@
     <img src="includes/img/cat-logo.gif" alt="Caterpilar SRL" width="100">
 </div>
 <div class="col-3">
-<h4>Menu</h4>
-<ul>
+<h4 class = "text-center">Menu</h4>
+<ul class="bottomnav">
     <li><a href="">HOME</a></li>
     <li><a href="">Produse</a></li>
     <li><a href="">Servicii</a></li>
