@@ -24,5 +24,5 @@
 
 </footer>
 <div class= "container-fluid  text-center text-light mbg" style="border-top:3px solid white; padding:10px">
-<h5>CUBIT</h5>
+<h5>&#169 <img src="includes/img/cubit.png" alt="cubit" width="20"> CUBIT 2021</h5>
 </div>    
