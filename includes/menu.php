@@ -8,9 +8,9 @@
   <li><a class="active" href="index.php">HOME</a></li>
   <li><a href="statii.php">STATII</a></li>  
   <li><a href="#contact">SERVICII</a></li>
-  <li><a href="contacte.php">CONTACTE</a></li>
+  <li><a href="contacte.php">CONTACTE</a></li>  
 </ul>
-</div>
+</div>	
 <div class="col-sm-2 mycenter ">
   <ul class="topnav">
       <li><a  href="tel:+37369103569"> +373 69 103569 </a></li>

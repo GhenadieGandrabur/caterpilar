@@ -1,5 +1,5 @@
 .mbg{background-color: rgb(6, 6, 104);}
-li a{color:white;}
+li.topnav a{color:white;}
 
 .mycenter {
     margin: auto;
@@ -64,4 +64,44 @@ ul.topnav li.right {float: right;}
 @media screen and (max-width: 600px) {
   ul.topnav li.right, 
   ul.topnav li {float: none;}
+}
+.wrapper{
+  height: 100%;
+  padding: 50px;
+}
+.menu a{
+  text-decoration: none;
+}
+.menu li{
+  position: relative;
+  list-style: none;
+}
+.menu_list{
+  display: flex;
+}
+.menu-list>li{
+  margin: 0px 10px 0px 0px;
+}
+.menu_list>li:hover .sub-menu_list{
+  display: block;
+}
+.menu_link{
+  color: rgb(93, 65, 146);
+}
+.sub-menu_list{
+  display: none;
+  min-width: 300px;
+  position: absolute;
+  left:0;
+  top: 20px;
+  padding: 20px 0px 0px 0px;
+
+}
+.sub-menu_list>li{
+  background-color: #fff;
+}
+.sub-menu_link{
+  color: brown;
+  display: inline-block;
+  padding: 5px 10px 10px 10px;
 }
