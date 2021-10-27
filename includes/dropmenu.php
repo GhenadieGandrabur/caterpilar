@@ -2,10 +2,11 @@
    <nav class="menu">
        <ul class="menu_list">
            <li>
-               <a href="" class="menu_link">Первый уровень</a>
+               <a href="" class="menu_link">Первый уровень +</a>
+               <span class="menu_arrow arrow"></span>
                <ul class="sub-menu_list">
                    <li>
-                       <a href="" class="sub-menu_link">Второй уровень</a>   
+                       <a href="" class="sub-menu_link">Второй уровень</a>
                    </li>
                    <li>
                        <a href="" class="sub-menu_link">Второй уровень</a> 

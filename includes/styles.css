@@ -17,8 +17,8 @@ li.topnav a{color:white;}
     text-decoration:underline;
   }
   .foradd{
-    height: 64px;
-    background-color: rgb(153, 13, 13);
+    height: 100px;
+    
   }
 
 
@@ -69,24 +69,37 @@ ul.topnav li.right {float: right;}
   height: 100%;
   padding: 50px;
 }
+
+
 .menu a{
   text-decoration: none;
+  padding: 20px; 
+  color: #fff;
+  size: 18px; 
 }
 .menu li{
   position: relative;
   list-style: none;
+  
 }
+
 .menu_list{
-  display: flex;
+  display: flex;  
+ 
 }
 .menu-list>li{
-  margin: 0px 10px 0px 0px;
+  margin: 0px 10px 0px 0px;  
 }
 .menu_list>li:hover .sub-menu_list{
-  display: block;
+  display: block; 
 }
-.menu_link{
-  color: rgb(93, 65, 146);
+.menu-link{
+  border: 1px solid #fff;
+}
+.menu_link:hover{
+  color: yellow;
+  
+  font-weight: bold;
 }
 .sub-menu_list{
   display: none;
@@ -95,13 +108,37 @@ ul.topnav li.right {float: right;}
   left:0;
   top: 20px;
   padding: 20px 0px 0px 0px;
+  
 
 }
 .sub-menu_list>li{
-  background-color: #fff;
+  
+  color: rgb(243, 239, 7);
 }
 .sub-menu_link{
+   min-width: 150px;
   color: brown;
   display: inline-block;
-  padding: 5px 10px 10px 10px;
+  padding: 5px 10px ;
+  border-top:2px solid #fff ;
+  background-color: rgb(6, 6, 104);  
 }
+
+
+.arrow{
+  position: absolute;
+  right: 0;
+  top:15px;
+
+  width: 0;
+  height: 0;
+  border-top: 10px solid rgb(10, 10, 10);
+  border-right: 10px solid transparent;
+  border-left: 10px solid transparent;
+
+}
+.menu_arrow{
+
+}
+
+

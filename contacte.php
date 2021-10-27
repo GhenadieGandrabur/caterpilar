@@ -27,7 +27,7 @@
             <td>Caterpilar srl</td>
         </tr>
         <tr>
-            <th>adresa</th>
+            <th>Adresa</th>
             <td>str. Padurii 20<br>mun. Chisinau.<br> RM</td>
         </tr>
         <tr>
@@ -46,6 +46,9 @@
 <div class="col-sm-3"></div>
 
 </div>
+    </div>
+    <div class=" container foradd">
+       
     </div>
    
     <?php include "includes/footer.php" ?>
