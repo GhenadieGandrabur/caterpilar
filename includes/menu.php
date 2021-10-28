@@ -8,11 +8,11 @@
        <ul class="menu_list">
             <li>
                <a href="index.php" class="menu_link">HOME</a>
-               <span class="manu_arrow arrow"></span>
+               <span class="menu_arrow arrow"></span>
             </li>
            <li>
                <a href="statii.php" class="menu_link">STATII RADIO</a>
-               <!--<span class="menu_arrow arrow"></span>-->
+              
                <ul class="sub-menu_list">
                    <li>
                        <a href="" class="sub-menu_link">Profesioniste</a>
