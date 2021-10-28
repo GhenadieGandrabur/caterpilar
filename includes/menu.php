@@ -7,10 +7,11 @@
 <nav class="menu">
        <ul class="menu_list">
             <li>
-               <a href="" class="menu_link">HOME</a>
+               <a href="index.php" class="menu_link">HOME</a>
+               <span class="manu_arrow arrow"></span>
             </li>
            <li>
-               <a href="" class="menu_link">STATII RADIO</a>
+               <a href="statii.php" class="menu_link">STATII RADIO</a>
                <!--<span class="menu_arrow arrow"></span>-->
                <ul class="sub-menu_list">
                    <li>
@@ -29,7 +30,7 @@
                <a href="" class="menu_link">SERVICII</a>
            </li>
            <li>
-               <a href="" class="menu_link">CONTACTE</a>
+               <a href="contacte.php" class="menu_link">CONTACTE</a>
            </li>
        </ul>
    </nav>
