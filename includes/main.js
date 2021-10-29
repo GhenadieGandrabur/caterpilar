@@ -18,6 +18,7 @@ var isMobile = {
         return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
     }
 };
+
 let body = document.querySelector('body');
 if(isMobile.any()){
   body.classList.add('touch'); 
@@ -28,8 +29,9 @@ if(isMobile.any()){
       let thisArrow=arrow[i];
       thisLink.classList.add('parent');
       arrow[i].addEventListener('click',function()){
-
-      });
+      subMenu.classList.toggle('open');
+      thisArrow.classList.toggle('active');
+       });
   }
 }else{   
   body.classList.add('mouse');
