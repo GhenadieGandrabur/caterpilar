@@ -120,6 +120,7 @@ margin: 0px 40px 0px 0px;
   background-color: rgb(6, 6, 104);  
 }
 .arrow{
+  display:none;
   position: absolute;
   right:0px;
   top:10px;
@@ -129,10 +130,19 @@ margin: 0px 40px 0px 0px;
   border-right: 10px solid transparent;
   border-left: 10px solid transparent;  
 }
-.menu_arrow{
-
+.arrow.active{
+  transform: rotate(-180deg);
 }
+/**.menu_arrow{
+
+}**/
 .body.mouse .menu-list>li:hover .sub-menu_list{
+  display: block;
+}
+.body.touch .sub-menu_list.open{
+  display: block;
+}
+.body.touch .arrow{
   display: block;
 }
 

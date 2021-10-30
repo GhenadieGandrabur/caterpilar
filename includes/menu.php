@@ -26,7 +26,7 @@
                </ul>
            </li>
            <li>
-               <a href="" class="menu_link">SERVICII</a>
+               <a href="servicii.php" class="menu_link">SERVICII</a>
            </li>
            <li>
                <a href="contacte.php" class="menu_link">CONTACTE</a>

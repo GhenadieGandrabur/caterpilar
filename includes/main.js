@@ -28,11 +28,11 @@ if(isMobile.any()){
       let subMenu=arrow[i].nextElementSibling;
       let thisArrow=arrow[i];
       thisLink.classList.add('parent');
-      arrow[i].addEventListener('click',function()){
+      arrow[i].addEventListener('click',function(){
       subMenu.classList.toggle('open');
       thisArrow.classList.toggle('active');
        });
   }
 }else{   
   body.classList.add('mouse');
-}
+} 
