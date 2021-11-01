@@ -1,2 +1,2 @@
 
-    <img src="includes/img/header.gif" width="100%" height="600" >
+    <img src="includes/img/header.gif" width="1800" height="600" class="otvetnii" >
