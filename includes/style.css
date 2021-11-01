@@ -1,4 +1,4 @@
-.mbg{
+.myBacgroundStyle{
   background-color: rgb(6, 6, 104);
 }
 .mycenter {
@@ -7,12 +7,17 @@
     padding: 10px;
   }
 
-  p{ text-align: justify; font-size: 18px; color:black;}
+  img{
+    max-width: 100%;
+  }
+
+  p{ text-align: justify; font-size: 16px; color:black;}
+
   .black{
     color:black; 
     text-decoration:underline;
   }
-  .foradd{
+  .forAdvertising{
     height: 100px;    
   }
 
@@ -189,11 +194,14 @@
   .drop a:hover{
     color: #fff;
   }
-.otvetnii{
+.adaptive{
   width: 100%;
   height: auto;
 }
  
+.shadowText{
+  text-shadow: 1px 1px rgb(233, 5, 5);
+}
 
   
 

@@ -39,7 +39,7 @@
 <div class="col-sm-3"></div>
 </div>
     </div>
-    <div class=" container foradd">       
+    <div class=" container forAdvertising">       
     </div>   
     <?php include "includes/footer.php" ?>    
 <script src="includes/main.js"></script>

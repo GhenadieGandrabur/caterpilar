@@ -52,7 +52,7 @@
 
         </div>
     </div>
-    <div class=" container foradd">
+    <div class=" container forAdvertising">
 
     </div>
 

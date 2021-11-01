@@ -1,4 +1,4 @@
-<div class="container-fluid mbg p-2">
+<div class="container-fluid myBacgroundStyle p-2">
   <div class="row">
     <div class="col-sm-2 text-center">
       <a href="index.php"><img src="includes/img/cat-logo.png" alt="Caterpilar logo" srcset=""></a>

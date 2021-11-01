@@ -17,8 +17,8 @@
      
     <?php include "includes/menu.php" ?> 
     <?php include "includes/header.php" ?>
-    <div class="container-fluid p-4 mbg text-center text-light"><h4>Acest sait este dedicat dispozitivelor care dau posibilitatea de a comunica prin voce la
-         distanta prin intermediul undelor electromagnetice.</h4></div>
+    <div class="container-fluid p-4 myBacgroundStyle text-center text-light"><h5>Acest sait este dedicat dispozitivelor care dau posibilitatea de a comunica prin voce la
+         distanta prin intermediul undelor electromagnetice.</h5></div>
     <div class="container-fluid ">
         <div class="row">
 <div class="col-sm-3 ">
