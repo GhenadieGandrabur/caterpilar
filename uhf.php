@@ -15,16 +15,40 @@
 </head>
 
 <body>
-<?php include "includes/menu.php" ?>
-<?php include "includes/ads.php" ?>
+    <?php include "includes/menu.php" ?>
+    <?php include "includes/ads.php" ?>
 
-    <div class="container">
+    <div class="container ">
+        <div class="headBackground">
+            <h4 style="padding:5px 10px">Statii VHF</h4>
+        </div>
+        <div class="row">
+            <div class="col-sm-3 ">
+                <div class="goodsCard"><a href="includes/img/NX-1200NE2.gif">
+                        <img src="includes/img/NX-1200NE2-small.gif" alt="" srcset=""></a>
+                    <h5 class="description">KENWOOD </h5>
+                    <h6>TK-2000</h6>
+                </div>
+            </div>
+            <div class="col-sm-3 ">
+                <div class="goodsCard"><a href="includes/img/NX-1200NE2.gif">
+                        <img src="includes/img/NX-1200NE2-small.gif" alt="" srcset=""></a>
+                    <h5 class="description">KENWOOD </h5>
+                    <h6>NX-1200NE2</h6>
+                </div>
+            </div>
+            
 
-                    
+
+
+
+
+
+        </div>
+
     </div>
 
 
-       
 
 
 
@@ -32,9 +56,10 @@
 
 
 
-<?php include "includes/footer.php" ?>
-       
 
+    <?php include "includes/footer.php" ?>
+
+    
 </body>
 
 </html>
