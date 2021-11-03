@@ -22,7 +22,7 @@
       </div>
     </div>
     <div class="col-sm-2 pt-3 text-center">
-      <a style="font-size:20px" class="text-light mycenter" href="tel:+37369103569">069 103569</a>
+      <a style="font-size:20px" class="text-light mycenter" href="tel:+37369103569">mob: 069103569</a>
     </div>
   </div>
 </div>

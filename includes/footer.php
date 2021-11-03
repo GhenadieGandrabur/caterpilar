@@ -7,8 +7,7 @@
             <p class="shadowText">MENU</p>
             <ul class="bottomnav">
                 <li><a href="index.php">HOME</a></li>
-                <li class="drop"><a href="statii.php">STATII
-                    <i class="fa fa-caret-down"></i></a>
+                <li class="drop"><a href="statii.php">STATII <i class="fa fa-caret-down"></i></a>
                     <ul class="listdrop">
                         <li><a href="uhf.php">STATII VHF/UHF</a></li>
                         <li><a href="cb.php">STATII CB</a></li>
@@ -31,9 +30,9 @@
         <div class="col-sm-3">
             <p class="shadowText">CONTACTE</p>
             <ul class="bottomnav">
-                <li> tel: 069103569</li>
-                <li> e-mail: office@caterpilar.md</li>
-                <li> adresa: str. Padurii 26/1, mun.Chisinau</li>
+                <li><a  href="tel:+37369103569">mob: 069 103569</a></li>
+                <li>e-mail: office@caterpilar.md</li>
+                <li>adresa: str. Padurii 26/1, mun.Chisinau</li>
             </ul>
         </div>
     </div>

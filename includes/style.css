@@ -6,6 +6,15 @@
     width: 50%;
     padding: 10px;
   }
+  .linkProperty{
+    text-align: right;
+    padding: 0px 10px 0px 0px;
+    
+  }
+   .linkProperty a{
+    color: rgb(102, 98, 98);
+    
+  }
 
   img{
     max-width: 100%;

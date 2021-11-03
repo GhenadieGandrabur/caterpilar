@@ -18,11 +18,12 @@
 <body>
     <?php include "../includes/ads.php" ?>
     <div class="container">
-        <h2 class="text-center">Date tehnice <b>TK-2000M</b></h2>
+        <h2 class="text-center">Date tehnice <b>TK-3000M</b></h2>
         <p><a href="../uhf.php"> <img src="../includes/img/arrow.png"></a></p>
         <div class="row border p-4 rounded">
             <div class="col-sm-4">
                 <img src="../includes/img/TK2000.gif">
+                <h5 class="text-center">TK-3000</h5>
             </div>
             <div class="col-sm-8">
                 <h5>Aceasta statie este foarte solicitata de constructori.
@@ -31,13 +32,13 @@
                 <table class="table table-striped">
                     <tbody>
                         <tr>
-                            <td>Banda de frecvente: 136-174 MHz</td>
+                            <td>Banda de frecvente: 400 - 470 MHz</td>
                         </tr>
                         <tr>
                             <td>16 canale</td>
                         </tr>
                         <tr>
-                            <td>Putere de emisie 5 wați </td>
+                            <td>Putere de emisie 4 wați </td>
                         </tr>
                         <tr>
                             <td>Funcție VOX internă cu 10 niveluri</td>

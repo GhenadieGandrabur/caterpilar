@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TK-2000</title>
+    <title>NX-1300DE3</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -18,46 +18,62 @@
 <body>
     <?php include "../includes/ads.php" ?>
     <div class="container">
-        <h2 class="text-center">Date tehnice <b>TK-2000M</b></h2>
+        <h2 class="text-center"><b>NX-1300DE3</b></h2>
         <p><a href="../uhf.php"> <img src="../includes/img/arrow.png"></a></p>
         <div class="row border p-4 rounded">
             <div class="col-sm-4">
-                <img src="../includes/img/TK2000.gif">
+                <img src="../products/pic/NX-1200DE3.gif">
+
+                <h4 class="text-center p-2">NX-1300DE3</h4>
             </div>
             <div class="col-sm-8">
-                <h5>Aceasta statie este foarte solicitata de constructori.
-                    Raportul pret-calitate o face foarte atractiva.</h5>
+                <h5>Date tehnice</h5>
 
                 <table class="table table-striped">
                     <tbody>
                         <tr>
-                            <td>Banda de frecvente: 136-174 MHz</td>
+                            <td>Banda de frecvente: </td>
+                            <td> 400 - 470 MHz</td>
                         </tr>
                         <tr>
-                            <td>16 canale</td>
+                            <td>Numar de canale</td>
+                            <td>64</td>
                         </tr>
                         <tr>
-                            <td>Putere de emisie 5 wați </td>
+                            <td>Zone </td>
+                            <td>4 </td>
                         </tr>
                         <tr>
-                            <td>Funcție VOX internă cu 10 niveluri</td>
+                            <td>Channel Spacing - Analogue - Wide/Mid/Narrow</td>
+                            <td>25 kHz/20 kHz/12.5 kHz</td>
                         </tr>
                         <tr>
-                            <td>QT and DQT Signalling, plus DTMF Encode </td>
+                            <td>Channel Spacing - Digital - Wide/Narrow </td>
+                            <td>12.5 kHz/6.25 kHz </td>
                         </tr>
                         <tr>
-                            <td>Furnizat cu antenă KRA-26M, baterie Li-Ion KNB-63L și încărcător rapid pentru baterie KSC-35</td>
+                            <td>Durata de functionare a batereei</td>
+                            <td>With KNB-45L: ± 14.5 h (TDMA)<br>
+                                With KNB-53N: ± 10.0 h (TDMA)<br>
+                                With KNB-69L: ± 19.0 h (TDMA)<br>
+                                - 5-5-90 -
+                            </td>
                         </tr>
                         <tr>
-                            <td>Notă - nu include nicio funcție de scrambler vocal, ceea ce o face ideală pentru utilizare în țările în care scrambler-urile sunt interzise</td>
+                            <td>Putere de emisie</td>
+                            <td>5 W / 4 W / 2.5 W / 1 W</td>
                         </tr>
                         <tr>
-                            <td>Notă - dacă utilizați încărcătorul cu 6 căi KSC-356, scoateți mai întâi clema de centură </td>
+                            <td>IP54 / IP55 </td>
+                            <td>YES </td>
                         </tr>
                         <tr>
                             <td>
-                                <h5>Aceasta statie este foarte solicitata de constructori.
-                                    Raportul pret-calitate o face foarte atractiva.</h5>
+                                Descriere
+                            </td>
+                            <td>
+                                <h5>Cea mai moderna statie. Voce curata, bateree puternica si duritate militara.
+                                    Este perfecta pentru serviciile de paza, aeroporturi s.a.</h5>
                             </td>
                         </tr>
                     </tbody>
