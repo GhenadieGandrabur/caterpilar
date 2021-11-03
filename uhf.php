@@ -20,24 +20,54 @@
 
     <div class="container ">
         <div class="headBackground">
-            <h4 style="padding:5px 10px">Statii VHF</h4>
+            <h4 style="padding:5px 10px">Statii VHF/UHF KENWOOD</h4>
         </div>
         <div class="row">
+
             <div class="col-sm-3 ">
-                <div class="goodsCard"><a href="includes/img/NX-1200NE2.gif">
-                        <img src="includes/img/NX-1200NE2-small.gif" alt="" srcset=""></a>
-                    <h5 class="description">KENWOOD </h5>
-                    <h6>TK-2000</h6>
+                <div class="goodsCard"><a href="includes/img/TK2000.gif">
+                        <img src="includes/img/TK2000-small.gif" alt="" srcset=""></a>
+                    <h6 class="description"><b>TK-2000</b><br>
+                        VHF 136 - 174 MHz</h6>
+                </div>
+            </div>
+            <div class="col-sm-3 ">
+                <div class="goodsCard"><a href="includes/img/TK2000.gif">
+                        <img src="includes/img/TK2000-small.gif" alt="" srcset=""></a>
+                    <h6 class="description"><b>TK-3000</b><br>
+                        UHF 400 - 470 MHz</h6>
                 </div>
             </div>
             <div class="col-sm-3 ">
                 <div class="goodsCard"><a href="includes/img/NX-1200NE2.gif">
                         <img src="includes/img/NX-1200NE2-small.gif" alt="" srcset=""></a>
-                    <h5 class="description">KENWOOD </h5>
-                    <h6>NX-1200NE2</h6>
+
+                    <h6 class="description"><b>NX-1200NE2</b><br>
+                        VHF 136 - 174 MHz</h6>
                 </div>
             </div>
-            
+            <div class="col-sm-3 ">
+                <div class="goodsCard"><a href="includes/img/NX-1200NE2.gif">
+                        <img src="includes/img/NX-1200NE2-small.gif" alt="" srcset=""></a>
+                    <h6 class="description"><b>NX-1300NE2</b><br>
+                        UHF 400 - 470 MHz</h6>
+                </div>
+            </div>
+            <div class="col-sm-3 ">
+                <div class="goodsCard"><a href="includes/img/NX-1200NE2.gif">
+                        <img src="includes/img/NX-1200NE2-small.gif" alt="" srcset=""></a>
+                    <h6 class="description"><b>NX-1300NE2</b><br>
+                        UHF 400 - 470 MHz</h6>
+                </div>
+            </div>
+            <div class="col-sm-3 ">
+                <div class="goodsCard"><a href="includes/img/NX-1200NE2.gif">
+                        <img src="includes/img/NX-1200NE2-small.gif" alt="" srcset=""></a>
+                    <h6 class="description"><b>NX-1300NE2</b><br>
+                        UHF 400 - 470 MHz</h6>
+                </div>
+            </div>
+
 
 
 
@@ -59,7 +89,7 @@
 
     <?php include "includes/footer.php" ?>
 
-    
+
 </body>
 
 </html>
