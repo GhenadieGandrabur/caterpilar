@@ -7,8 +7,8 @@
             <p class="shadowText">MENU</p>
             <ul class="bottomnav">
                 <li><a href="index.php">HOME</a></li>
-                <li class="drop"><a href="statii.php">STATII</a>
-                    <i class="fa fa-caret-down"></i>
+                <li class="drop"><a href="statii.php">STATII
+                    <i class="fa fa-caret-down"></i></a>
                     <ul class="listdrop">
                         <li><a href="uhf.php">STATII VHF/UHF</a></li>
                         <li><a href="cb.php">STATII CB</a></li>

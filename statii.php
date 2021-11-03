@@ -37,9 +37,9 @@
 
 </div>
     </div>
-   
+    <script src="includes/main.js"></script> 
     <?php include "includes/footer.php" ?>
     
-<script src="includes/main.js"></script>
+
 </body>
 </html>
