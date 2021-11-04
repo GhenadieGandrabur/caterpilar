@@ -20,7 +20,7 @@
     <?php include "includes/ads.php" ?>
 
     <div class="container ">
-        <div class="headBackground">
+        <div>
             <h4 style="padding:5px 10px">Statii VHF/UHF KENWOOD</h4>
         </div>
         <div class="row">
